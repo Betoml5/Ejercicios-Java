@@ -1,11 +1,12 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+import java.util.Date;
 
 public class ElGlobo {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
+        Date fecha = new Date();
 
         int numeroTiendas;
         int numeroCiudades;
