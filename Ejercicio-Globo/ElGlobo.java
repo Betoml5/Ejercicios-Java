@@ -53,7 +53,8 @@ public class ElGlobo {
            System.out.println("La ciudad: " + i + " vendio: $" + gananciaCiudad);
 
        }
-
+        
+       System.out.println("Fecha de hoy: " + fecha);
        System.out.println("La ganancia total de EL GLOBO FUE: $" + gananciaTotal);
 
 
