@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CometaDos",
+            "request": "launch",
+            "mainClass": "CometaDos",
+            "projectName": "ejerciciosjava_589852d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comenta",
+            "request": "launch",
+            "mainClass": "Comenta",
+            "projectName": "ejerciciosjava_589852d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Banco",
+            "request": "launch",
+            "mainClass": "Banco",
+            "projectName": "ejerciciosjava_589852d5"
+        }
+    ]
+}
